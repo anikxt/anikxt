@@ -2,7 +2,7 @@
 
 ### - I am a Competitive Programmer & a Machine Learning enthusiast.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/sarveshspatil111/anikxt/blob/main/final-killua.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/anikxt/anikxt/blob/master/final-killua.gif">
 
 ### - Interests :
 
