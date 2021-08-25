@@ -70,5 +70,3 @@
 
 ![](https://img.shields.io/badge/VSCode-informational?&logo=visualstudiocode&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Sublime-informational?&logo=sublimetext&logoColor=white&color=FF9800)
-
-Message @sarveshsp
