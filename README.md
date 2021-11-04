@@ -2,7 +2,7 @@
 
 ### - I am a Competitive Programmer & a Machine Learning enthusiast.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.sciencephoto.com/n9/20/00/37/n9200037-800px-wm.jpg">
+<img hight="400" width="500" alt="GIF" align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Creation_of_Adam_Michelangelo.jpg/1280px-Creation_of_Adam_Michelangelo.jpg">
 
 ### - Interests :
 
