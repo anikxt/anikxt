@@ -59,12 +59,17 @@
 ![](https://img.shields.io/badge/React-informational?&logo=react&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/NextJS-informational?&logo=next.js&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Bootstrap-informational?&logo=bootstrap&logoColor=white&color=7952B3)
+![](https://img.shields.io/badge/Express-informational?&logo=express&logoColor=white&color=000000)
 
 ## Tools
 
+![](https://img.shields.io/badge/Node-informational?&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Markdown-informational?&logo=markdown&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Git-informational?&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/LaTex-informational?&logo=latex&logoColor=white&color=008080)
+
+## Databases
+![](https://img.shields.io/badge/MongoDB-informational?&logo=mongodb&logoColor=white&color=47A248)
 
 ## Editors
 
