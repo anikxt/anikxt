@@ -75,3 +75,6 @@
 
 ![](https://img.shields.io/badge/VSCode-informational?&logo=visualstudiocode&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Sublime-informational?&logo=sublimetext&logoColor=white&color=FF9800)
+
+-----------------------------------------------
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anikxt)
