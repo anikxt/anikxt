@@ -32,12 +32,12 @@
     <img src='https://img.shields.io/static/v1?label=&message=aniket15304@gmail.com&color=dcdcdc&style=plastic-square&logo=gmail' />
   </a>
 
-<h2>Coding Platform Handles</h2>
+<!-- <h2>Coding Platform Handles</h2>
 
 ![Badge](https://cp-logo.vercel.app/codechef/anikxt?logo=true)
 ![Badge](https://cp-logo.vercel.app/leetcode/anikxt?logo=true)
 ![Badge](https://cp-logo.vercel.app/codeforces/anikxt?logo=true)
-![Badge](https://cp-logo.vercel.app/atcoder/anikxt?logo=true)
+![Badge](https://cp-logo.vercel.app/atcoder/anikxt?logo=true) -->
 
 <h2>Github Stats</h2>
 
