@@ -1,23 +1,24 @@
-<h1>Hi there, I am Aniket.</h1>
+<h1>Hey there, I am Aniket!</h1>
 
-### - I am a Competitive Programmer & a Machine Learning enthusiast.
+### - I am a Frontend web developer & a UI/UX enthusiast.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Creation_of_Adam_Michelangelo.jpg/1280px-Creation_of_Adam_Michelangelo.jpg">
+<img height="350" width="350" alt="GIF" style="float: right;" src="public/retro-buddist-art.jpeg">
 
 ### - Interests :
 
-- Problem Solving
-- Data Structures
-- Algorithms
-- Machine Learning
+- Problem solving
+- Data structures and algorithms (DSA)
+- Frontend development
+- Eastern philosophy (Buddhist)
 - Learning about new technologies
 
 ### - Hobbies :
 
-- :soccer: Football
-- 🎹 Piano
+- 🏸 Badminton
+- 🎧 Listening to music
+- 📚 Reading books
 - ♟️ Chess
-- :headphones: Listening to Music
+- 🎹 Piano
   </br>
 
 <h2> Social</h2>
@@ -25,11 +26,8 @@
 <a href='https://www.linkedin.com/in/aniketkanere/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=aniketkanere&color=0072b1&style=plastic-square&logo=linkedin' />
   </a>
-<a href='https://twitter.com/bilaazzeee' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=bilaazzeee&color=fff&style=plastic-square&logo=twitter' />
-  </a>
-<a href='https://img.shields.io/static/v1?label=&message=aniket15304@gmail.com&color=dcdcdc&style=plastic-square&logo=gmail' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=aniket15304@gmail.com&color=dcdcdc&style=plastic-square&logo=gmail' />
+<a href='mailto:aniketkanere0@gmail.com' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=aniketkanere0@gmail.com&color=dcdcdc&style=plastic-square&logo=gmail' />
   </a>
 
 <!-- <h2>Coding Platform Handles</h2>
@@ -43,7 +41,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anikxt&theme=gruvbox&currStreakNum=F9FC74&sideNums=F9FC74&currStreakLabel=E9AB1C&sideLabels=E9AB1C)](https://git.io/streak-stats)
 
-## Languages
+<!-- ## Languages
 
 ![](https://img.shields.io/badge/-informational?&logo=c&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/C++-informational?&logo=c++&logoColor=white&color=007396)
@@ -69,12 +67,14 @@
 ![](https://img.shields.io/badge/LaTex-informational?&logo=latex&logoColor=white&color=008080)
 
 ## Databases
+
 ![](https://img.shields.io/badge/MongoDB-informational?&logo=mongodb&logoColor=white&color=47A248)
 
 ## Editors
 
 ![](https://img.shields.io/badge/VSCode-informational?&logo=visualstudiocode&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Sublime-informational?&logo=sublimetext&logoColor=white&color=FF9800)
+![](https://img.shields.io/badge/Sublime-informational?&logo=sublimetext&logoColor=white&color=FF9800) -->
 
------------------------------------------------
+---
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/anikxt)
