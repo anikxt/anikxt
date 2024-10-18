@@ -2,7 +2,7 @@
 
 ### - I am a Frontend web developer & a UI/UX enthusiast.
 
-<img height="350" width="350" alt="GIF" align="right" src="public/retro-buddist-art.jpeg">
+<img height="350" width="350" alt="GIF" align="right" style="padding-bottom: 10px" src="public/retro-buddist-art.jpeg">
 
 ### - Interests :
 
