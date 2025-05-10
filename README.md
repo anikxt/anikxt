@@ -1,4 +1,4 @@
-# Hi, I am Aniket! 👋
+# 👋 Hi, I'm Aniket
 
 I’m a **Frontend Developer**—breathing life into the web, one line of code at a time.
 
