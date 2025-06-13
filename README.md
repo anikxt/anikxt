@@ -16,6 +16,9 @@ I’m a **Frontend Developer**—breathing life into the web, one line of code a
   <a href="mailto:aniketkanere0@gmail.com" target="_blank" title="Send me a hi">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Light.svg" alt="Email" width="40" height="30" />
   </a>
+  <a href="https://codepen.io/anikxt" target="_blank" title="Check out my pens">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CodePen-Light.svg" alt="CodePen" width="40" height="30" />
+  </a>
 </p>
 
 ## Languages & Tools
